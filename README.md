@@ -1,4 +1,4 @@
-<h1 align="center">Khalandar S</h1>
+<h1 align="center">Khalandar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=4000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;AI+Engineer" />
@@ -20,8 +20,7 @@ I build products that feel polished — not just functional.
 
 Design systems  
 Responsive frontend architecture  
-UI/UX workflows  
-Interactive dashboards  
+UI/UX workflows    
 AI-powered interfaces  
 
 ---
