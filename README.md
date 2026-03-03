@@ -1,81 +1,52 @@
-
 <h1 align="center">Khalandar S</h1>
-<h3 align="center">AI Engineer | Full Stack Developer | GenAI Builder</h3>
 
 <p align="center">
-  Building intelligent systems that solve real-world problems.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=4000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Designer;AI+Engineer" />
 </p>
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://yourportfolio.com">Portfolio</a>
+  <img src="https://komarev.com/ghpvc/?username=KhalandarS&style=flat-square&color=8B949E" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About
 
-- 🎓 2nd Year AI & Data Science Student  
-- 🤖 Developing AI-powered systems (Face Recognition, Threat Detection)  
-- 🔐 Building AI-driven Cybersecurity Tools  
-- 📊 Learning Advanced Data Analytics & Trading  
-- 🛠 Focused on Production-Level System Design  
+Frontend Developer and UI/UX Designer building clean, responsive, and performance-driven interfaces.
 
----
+I focus on design systems, smooth user interactions, and frontend architectures that scale — while integrating applied AI where it adds real value.
 
-## 🚀 Current Projects
-
-- 🧍 AI Smart Attendance System (RetinaFace + ArcFace + Anti-Spoofing)
-- 🔐 AI-Powered Cybersecurity Threat Detection Tool
-- 🏥 Hospital Resource Optimization System
-- 📈 Data Analytics Dashboard Projects
+I care about visual clarity, usability, and shipping products that feel polished.
 
 ---
 
-## ⚙️ Tech Stack
+## What I Work On
 
-### 👨‍💻 Programming
-Python • Java • SQL • JavaScript
-
-### 🌐 Web & Backend
-Flask • FastAPI • React • REST APIs • Tailwind CSS
-
-### 🤖 AI / ML
-Scikit-learn • DeepFace • InsightFace • OpenCV • Pandas • NumPy
-
-### 🗄 Databases
-MySQL • PostgreSQL
+Design systems  
+Responsive frontend architecture  
+UI/UX workflows  
+AI-powered interfaces  
 
 ---
 
-## 📊 GitHub Analytics
+## Tech Stack
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=react,flutter,js,ts,html,css,tailwind,figma,python,flask,fastapi,opencv,tensorflow,mysql,postgres,firebase,docker,git,github,vscode" />
 </p>
 
 ---
 
-## 🏗 Engineering Philosophy
+## Connect
 
-> "Build systems that scale.  
-> Design solutions that matter.  
-> Optimize for real-world impact."
-
----
-
-## 📫 Let's Build Something Powerful
-
-If you're working on:
-- AI Systems  
-- Cybersecurity  
-- Data Engineering  
-- Full Stack Applications  
-
-Let’s collaborate.
+<p align="center">
+  <a href="mailto:khalandars2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://linkedin.com/in/kh2zb">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://github.com/KhalandarS">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
